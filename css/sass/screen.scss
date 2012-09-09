@@ -1,4 +1,5 @@
 @import "normalize";
+@import "fonts";
 
 $width: 1200px;
 $color-red: #d20011;
@@ -6,6 +7,55 @@ $color-red: #d20011;
 body {
 	background: url(../img/newspaper.jpg) repeat 0 0;
 	color: $color-red;
+	font: 20px/22px 'dinregular', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif;
+}
+
+p {
+	padding: 5px 0 5px;
+	margin: 0;
+}
+
+a {
+	color: $color-red;
+	text-decoration: none;
+
+	&:hover {
+		text-decoration: underline;
+	}
+}
+
+strong {
+	font-weight: normal;
+	font-family: 'din_blackregular';
+}
+
+// ******************************
+// @styles
+//
+
+.centre {
+	text-align: center;
+}
+
+ul.plain {
+	list-style: none;
+	padding: 0;
+	margin: 0;
+}
+
+ul.inline {
+	overflow: hidden;
+
+	li {
+		float: left;
+		margin: 0 10px 0 0;
+	}
+}
+
+ul.centre {
+	margin-left: auto;
+	margin-right: auto;
+	display: table;
 }
 
 
@@ -36,7 +86,20 @@ body {
 .content {
 	background: white;
 	overflow: hidden;
+	padding: 25px 0 50px 0;
 	margin: 30px 0 0 0;
+}
+
+.intro-paragraph {
+	text-transform: uppercase;
+	font-size: 20px;
+	line-height: 27px;
+	text-align: center;
+	padding: 25px 50px 25px 50px;
+}
+
+ul.social-list-large {
+	padding: 0 0 30px 0;
 }
 
 // ********************
