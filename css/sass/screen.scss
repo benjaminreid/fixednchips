@@ -37,6 +37,33 @@ strong {
 	text-align: center;
 }
 
+.alignleft {
+	float: left;
+}
+
+.upper {
+	text-transform: uppercase;
+}
+
+.light {
+	font-family: 'din_lightregular';
+}
+
+.large {
+	font-size: 24px;
+	line-height: 26px;
+}
+
+.small {
+	font-size: 16px;
+	line-height: 18px;
+}
+
+.smaller {
+	font-size: 13px;
+	line-height: 15px;
+}
+
 ul.plain {
 	list-style: none;
 	padding: 0;
@@ -77,6 +104,29 @@ ul.centre {
 	width: 100%;
 	height: 127px;
 	background: white;
+}
+
+.page-nav {
+	padding: 17px 0 0 32px;
+	float: left;
+
+	p {
+		padding: 0 0 4px 0;
+	}
+}
+
+.main-nav {
+	@extend ul.inline;
+	@extend ul.plain;
+	text-transform: uppercase;
+	font-family: 'din_blackregular';
+	margin-left: -35px;
+	padding-top: 15px;
+
+	li {
+		margin-left: 35px;
+		margin-right: 0;
+	}
 }
 
 // ********************
