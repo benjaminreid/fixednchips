@@ -439,7 +439,7 @@ ul.centre {
 .social-links {
   margin: 21px 0 0 0; }
   .social-links .inline {
-    margin-left: -13px;
+    margin-left: -11px;
     margin-top: 3px; }
     .social-links .inline li {
       margin-left: 13px; }
@@ -462,10 +462,39 @@ ul.social-list-large {
 
 .page-footer {
   width: 100%;
-  height: 217px;
+  height: 192px;
+  padding: 25px 0 0 0;
   background: url(../img/footer.png) no-repeat 50% 0;
   position: fixed;
   z-index: 1;
   bottom: 0;
   left: 0;
   margin: 0 auto; }
+
+ul.sponsor-list {
+  padding-top: 20px; }
+
+.logo {
+  text-indent: 100%;
+  white-space: nowrap;
+  overflow: hidden;
+  line-height: 0;
+  font-size: 0;
+  display: -moz-inline-stack;
+  display: inline-block;
+  *zoom: 1;
+  *display: inline;
+  background-repeat: no-repeat;
+  vertical-align: middle;
+  *vertical-align: auto;
+  margin: 0 5px 0 5px; }
+
+.logo-jamfactory {
+  width: 44px;
+  height: 45px;
+  background-image: url(../img/jamfactory-logo.png); }
+
+.logo-nouveller {
+  width: 123px;
+  height: 45px;
+  background-image: url(../img/nouveller-logo.png); }

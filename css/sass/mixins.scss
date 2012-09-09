@@ -1,0 +1,14 @@
+@mixin hide-text {
+  text-indent: 100%;
+  white-space: nowrap;
+  overflow: hidden;
+  line-height: 0;
+  font-size: 0;
+}
+
+@mixin inline-block {
+	display: -moz-inline-stack;
+	display: inline-block;
+	*zoom: 1;
+	*display: inline;
+}
