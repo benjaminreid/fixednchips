@@ -698,6 +698,7 @@ ul.centre {
 
 .block-link {
   padding: 3px;
+  margin: 10px 0 0 0;
   display: -moz-inline-stack;
   display: inline-block;
   *zoom: 1;
@@ -756,7 +757,7 @@ ul.centre {
 .content {
   background: white;
   overflow: hidden;
-  padding: 25px 0 50px 0;
+  padding: 25px 0 40px 0;
   margin: 30px 0 0 0; }
 
 .intro-paragraph {
@@ -764,10 +765,10 @@ ul.centre {
   font-size: 20px;
   line-height: 27px;
   text-align: center;
-  padding: 37px 50px 25px 50px; }
+  padding: 18px 50px 20px 50px; }
 
 ul.social-list-large {
-  padding: 0 0 30px 0; }
+  padding: 0 0 15px 0; }
 
 .page-footer {
   width: 100%;
