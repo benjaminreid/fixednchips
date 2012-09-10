@@ -92,12 +92,19 @@ ul.centre {
 	display: table;
 }
 
-// ******************************
-// @styles
-//
-
 .tooltip {
 	text-transform: uppercase;
+}
+
+.block-link {
+	padding: 3px;
+	@include inline-block;
+
+	&:hover {
+		background: $color-red;
+		text-decoration: none;
+		color: #fff;
+	}
 }
 
 // ******************************
@@ -141,6 +148,16 @@ ul.centre {
 	li {
 		margin-left: 35px;
 		margin-right: 0;
+
+		a {
+			height: 36px;
+			display: block;
+			
+			&:hover {
+				border-bottom: solid 3px $color-red;
+				text-decoration: none;
+			}
+		}
 	}
 }
 

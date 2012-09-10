@@ -696,6 +696,17 @@ ul.centre {
 .tooltip {
   text-transform: uppercase; }
 
+.block-link {
+  padding: 3px;
+  display: -moz-inline-stack;
+  display: inline-block;
+  *zoom: 1;
+  *display: inline; }
+  .block-link:hover {
+    background: #d20011;
+    text-decoration: none;
+    color: #fff; }
+
 .wrapper {
   width: 1200px;
   margin: 0 auto;
@@ -721,6 +732,12 @@ ul.centre {
   .main-nav li {
     margin-left: 35px;
     margin-right: 0; }
+    .main-nav li a {
+      height: 36px;
+      display: block; }
+      .main-nav li a:hover {
+        border-bottom: solid 3px #d20011;
+        text-decoration: none; }
 
 .social-links {
   margin: 21px 0 0 0; }
