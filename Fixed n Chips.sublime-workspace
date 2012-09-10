@@ -520,18 +520,13 @@
 	"buffers":
 	[
 		{
+			"contents": "<!doctype html>\n<html>\n	<head>\n		<meta charset=\"utf-8\">\n		<meta content=\"IE=edge,chrome=1\" http-equiv=\"X-UA-Compatible\">\n		<title>B&Ouml;IKZM&Ouml;IND &mdash; presents FIXED 'n' CHIPS - A chip shop-based alleycat race</title>\n		<meta name=\"keywords\" content=\"\">\n		<meta name=\"description\" content=\"\">\n		<link rel=\"stylesheet\" href=\"css/screen.css\">\n		<script src=\"js/libs/modernizr.js\"></script>\n	</head>\n	<body>\n\n		<div class=\"wrapper\">\n			\n			<header class=\"page-header\">\n				\n				<img src=\"img/fixednchips-logo.gif\" class=\"alignleft\" alt=\"BÖIKZMÖIND\">\n				\n				<nav class=\"page-nav\">\n					<p class=\"upper small\">B&Ouml;IKZM&Ouml;IND <span class=\"smaller\">presents a</span> State Bicycle Co. <span class=\"smaller\">sponsored event</span></p>\n					<p class=\"upper light large\">Saturday 27th October 2012 / Waterfront, Bristol, BS1 / 2.00PM</p>\n					<ul class=\"main-nav\">\n						<li><a href=\"\" title=\"Coming Soon\">The Race</a></li>\n						<li><a href=\"\" title=\"Coming Soon\">The Prizes</a></li>\n						<li><a href=\"\" title=\"Coming Soon\">The Sponsors</a></li>\n						<li><a href=\"\" title=\"Coming Soon\">The Results</a></li>\n						<li><a href=\"\" title=\"Coming Soon\">The Gallery</a></li>\n					</ul>\n				</nav>\n\n				<div class=\"social-links alignright\">\n					<a href=\"https://twitter.com/#!/search/%23FIXEDnCHIPS\" class=\"smaller\">#FIXEDnCHIPS</a>\n					<ul class=\"inline plain\">\n						<li>\n							<a href=\"https://twitter.com/BOIKZMOIND\"><img src=\"img/twitter-logo-small.png\" alt=\"Twitter logo\"></a>\n						</li>\n						<li>\n							<a href=\"https://www.facebook.com/BOIKZMOIND\"><img src=\"img/facebook-logo-small.png\" alt=\"Facebook logo\"></a>\n						</li>\n						<li>\n							<a href=\"http://statigr.am/tag/fixednchips/\"><img src=\"img/instagram-logo-small.gif\" alt=\"Instagram logo\"></a>\n						</li>\n					</ul>\n				</div>\n\n			</header>\n\n			<div class=\"content\">\n\n				<p class=\"intro-paragraph\">\n					The prep for B&Ouml;IKZM&Ouml;IND's first chip shop-based alleycat is underway, full site &amp; details coming soon<br>\n					for now, mark <strong>Saturday 27th October</strong> in your diaries and stay tuned<br>\n					via the Facebook page &amp; our Twitter account:\n				</p>\n\n				<ul class=\"plain inline centre social-list-large\">\n					<li>\n						<a href=\"https://twitter.com/BOIKZMOIND\"><img src=\"img/twitter-logo.png\" alt=\"Twitter\"></a>\n					</li>\n					<li>\n						<a href=\"https://www.facebook.com/BOIKZMOIND\"><img src=\"img/facebook-logo.png\" alt=\"Facebook\"></a>\n					</li>\n				</ul>\n\n				<p class=\"centre\">\n					<a href=\"http://boikzmoind.com/fixednchips/FIXEDnCHIPS-Flyer.png\" class=\"upper\">Click here to download the hi-res flyer</a><br>\n					<strong><a href=\"https://twitter.com/#!/search/%23FIXEDnCHIPS\" class=\"block-link\">#FIXEDnCHIPS</a></strong>\n				</p>\n\n			</div>\n\n			<footer class=\"page-footer\">\n				<div class=\"wrapper\">\n					<p class=\"upper centre small\">Site designed by <a href=\"http://news.jam-factory.com/\" class=\"logo logo-jamfactory\">JamFactory</a> Site built by <a href=\"http://www.nouveller.com/\" class=\"logo logo-nouveller\">Nouveller</a></p>\n					<ul class=\"inline centre plain sponsor-list\">\n						<li>\n							<a href=\"http://boikzmoind.com/\"><img src=\"img/boikzmoind-logo.gif\" alt=\"B&Ouml;IKZM&Ouml;IND logo\"></a>\n						</li>\n						<li>\n							<a href=\"http://boikzmoind.com/\"><img src=\"img/boikzmoind-shield-logo.gif\" alt=\"B&Ouml;IKZM&Ouml;IND shield\"></a>\n						</li>\n						<li>\n							<a href=\"http://www.statebicycle.co.uk/\"><img src=\"img/state-bicycle-co-logo.png\" alt=\"State Bicycle Co logo\"></a>\n						</li>\n					</ul>\n				</div>\n			</footer>\n\n		</div>\n\n		<script src=\"js/libs/libs.min.js\"></script>\n		<script src=\"js/script.js\"></script>\n	</body>\n</html>",
 			"file": "index.html",
+			"file_size": 3487,
+			"file_write_time": 1347306135000000,
 			"settings":
 			{
-				"buffer_size": 3107,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "css/sass/screen.scss",
-			"settings":
-			{
-				"buffer_size": 2401,
+				"buffer_size": 3670,
 				"line_ending": "Unix"
 			}
 		}
@@ -700,6 +695,13 @@
 	},
 	"file_history":
 	[
+		"/Users/Benjamin/Sites/Fixed n Chips/css/sass/screen.scss",
+		"/Users/Benjamin/Sites/Fixed n Chips/css/sass/bootstrap.scss",
+		"/Users/Benjamin/Sites/Fixed n Chips/js/libs/modernizr.js",
+		"/Users/Benjamin/Sites/Fixed n Chips/js/coffee/script.coffee",
+		"/Users/Benjamin/Downloads/bootstrap/css/bootstrap.css",
+		"/Users/Benjamin/Sites/Fixed n Chips/index.html",
+		"/Users/Benjamin/Sites/Fixed n Chips/css/sass/mixins.scss",
 		"/Users/Benjamin/Sites/Fixed n Chips/js/libs/libs.min.js",
 		"/Users/Benjamin/Sites/Fixed n Chips/js/script.js",
 		"/Users/Benjamin/Sites/Fixed n Chips/css/sass/fonts.scss",
@@ -820,14 +822,7 @@
 		"/Users/Benjamin/Sites/Hereward Homes/wp/wp-content/themes/herewardhomes/template-developments.php",
 		"/Users/Benjamin/Sites/Hereward Homes/README.md",
 		"/Users/Benjamin/Sites/Hereward Homes/wp/wp-includes/theme-compat/header.php",
-		"/Users/Benjamin/Sites/Hereward Homes/html/js/hh.js",
-		"/Users/Benjamin/Sites/Hereward Homes/html/js/script.js",
-		"/Users/Benjamin/Sites/Hereward Homes/html/developments.html",
-		"/Users/Benjamin/Sites/Hereward Homes/wp/wp-content/themes/herewardhomes/template-developmens.php",
-		"/Users/Benjamin/Sites/Hereward Homes/wp/wp-content/themes/herewardhomes/single-hh_development.php",
-		"/Users/Benjamin/Sites/Hereward Homes/html/sass/mixins.scss",
-		"/Users/Benjamin/Sites/Hereward Homes/wp/wp-content/themes/herewardhomes/content-gallery.php",
-		"/Users/Benjamin/Sites/Hereward Homes/html/index.html"
+		"/Users/Benjamin/Sites/Hereward Homes/html/js/hh.js"
 	],
 	"find":
 	{
@@ -862,6 +857,12 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"#000",
+			"black",
+			"inline",
+			"insta",
+			"instr",
+			"inline-block",
 			"inline",
 			"din-",
 			"25",
@@ -983,12 +984,6 @@
 			"developemnts-list",
 			"@CONTENT",
 			"@CON",
-			"dev_subtitle",
-			"dev_subtitle_key",
-			"hh-development-subtitle",
-			"dev_subtitle",
-			"dev_subtitle_key",
-			"hh_development",
 			"dev_subtitle"
 		],
 		"highlight": true,
@@ -1063,15 +1058,15 @@
 					"file": "index.html",
 					"settings":
 					{
-						"buffer_size": 3107,
+						"buffer_size": 3670,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2413,
-								2398
+								120,
+								120
 							]
 						],
 						"settings":
@@ -1079,8 +1074,8 @@
 							"syntax": "Packages/HTML/HTML.tmLanguage",
 							"translate_tabs_to_spaces": false
 						},
-						"translation.x": 465.0,
-						"translation.y": 1383.0,
+						"translation.x": 0.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -1088,35 +1083,8 @@
 			]
 		},
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 1,
-					"file": "css/sass/screen.scss",
-					"settings":
-					{
-						"buffer_size": 2401,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								2324,
-								2324
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/SCSS/SCSS.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 4181.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				}
 			]
 		}
 	],
@@ -1168,6 +1136,14 @@
 		"height": 0.0,
 		"selected_items":
 		[
+			[
+				"scr",
+				"css/sass/screen.scss"
+			],
+			[
+				"mix",
+				"css/sass/mixins.scss"
+			],
 			[
 				"fon",
 				"css/sass/fonts.scss"
@@ -1341,16 +1317,8 @@
 				"static/sass/form.scss"
 			],
 			[
-				"scr",
-				"static/sass/screen.scss"
-			],
-			[
 				"st",
 				"static/form-style.haml"
-			],
-			[
-				"mix",
-				"static/sass/mixins.scss"
 			],
 			[
 				"se",
@@ -1689,15 +1657,19 @@
 		"selected_items":
 		[
 			[
+				"c",
+				"/Users/Benjamin/Sites/Compassion/Compassion.sublime-project"
+			],
+			[
+				"rai",
+				"/Users/Benjamin/Sites/Railway Children/Railway Children.sublime-project"
+			],
+			[
 				"",
 				"/Users/Benjamin/Sites/Railway Children/Railway Children.sublime-project"
 			],
 			[
 				"com",
-				"/Users/Benjamin/Sites/Compassion/Compassion.sublime-project"
-			],
-			[
-				"c",
 				"/Users/Benjamin/Sites/Compassion/Compassion.sublime-project"
 			],
 			[
