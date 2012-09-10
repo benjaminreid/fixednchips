@@ -707,6 +707,12 @@ ul.centre {
     text-decoration: none;
     color: #fff; }
 
+.tooltip.top .tooltip-arrow {
+  border-top-color: #d20011; }
+
+.tooltip-inner {
+  background-color: #d20011; }
+
 .wrapper {
   width: 1200px;
   margin: 0 auto;

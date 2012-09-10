@@ -107,6 +107,14 @@ ul.centre {
 	}
 }
 
+.tooltip.top .tooltip-arrow {
+	border-top-color: $color-red;
+}
+
+.tooltip-inner {
+	background-color: $color-red;
+}
+
 // ******************************
 // @layout
 //
