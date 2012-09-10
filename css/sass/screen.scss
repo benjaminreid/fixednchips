@@ -1,5 +1,6 @@
 @import "normalize";
 @import "fonts";
+@import "bootstrap";
 @import "mixins";
 
 $width: 1200px;
@@ -91,6 +92,13 @@ ul.centre {
 	display: table;
 }
 
+// ******************************
+// @styles
+//
+
+.tooltip {
+	text-transform: uppercase;
+}
 
 // ******************************
 // @layout
