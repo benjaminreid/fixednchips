@@ -633,7 +633,24 @@ table {
 body {
   background: url(../img/newspaper-small.jpg) repeat 0 0;
   color: #d20011;
-  font: 20px/22px "dinregular", "Helvetica Neue", "Helvetica", "Arial", sans-serif; }
+  font: 14px/18px "Helvetica Neue", "Helvetica", "Arial", sans-serif; }
+
+h1 {
+  font: 30px/0px "din_lightregular", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+  text-transform: uppercase;
+  padding: 7px 0 0 24px;
+  margin: 0 0 17px -24px;
+  border-bottom: solid 10px #d20011;
+  width: 110%; }
+  h1 span {
+    background: #fff;
+    padding: 0 10px 0 10px; }
+
+h2 {
+  font: 20px/24px "din_blackregular", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+  text-transform: uppercase;
+  padding: 5px 0 5px 0;
+  margin: 0; }
 
 p {
   padding: 5px 0 5px;
@@ -648,6 +665,13 @@ a {
 strong {
   font-weight: normal;
   font-family: 'din_blackregular'; }
+
+hr {
+  padding: 0;
+  margin: 10px 0 10px 0;
+  border: none;
+  height: 3px;
+  background: #d20011; }
 
 .centre {
   text-align: center; }
@@ -723,7 +747,8 @@ ul.centre {
   width: auto;
   padding: 0 30px 0 0;
   height: 127px;
-  background: white; }
+  background: white;
+  font: 20px/22px "dinregular", "Helvetica Neue", "Helvetica", "Arial", sans-serif; }
 
 .page-nav {
   padding: 23px 0 0 30px;
@@ -757,8 +782,9 @@ ul.centre {
 .content {
   background: white;
   overflow: hidden;
-  padding: 25px 0 40px 0;
-  margin: 30px 0 0 0; }
+  padding: 24px;
+  margin: 30px 0 0 0;
+  position: relative; }
 
 .intro-paragraph {
   text-transform: uppercase;
