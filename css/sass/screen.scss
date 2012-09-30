@@ -264,6 +264,14 @@ $inner-gutter: 10px;
 	width: 564px;
 }
 
+.col-30 {
+	width: 363px;
+}
+
+.col-70 {
+	width: 769px;
+}
+
 .border-right {
 	border-right: 2px solid $color-red;
 }
@@ -433,6 +441,36 @@ ul.social-list-large {
 	}
 }
 
+.page-sponsors {
+
+	.medium {
+		font-size: 20px;
+	}
+
+	.col {
+
+		.medium {
+			padding: 20px 0 20px 0;
+		}
+	}
+}
+
+.sponsors-table {
+	margin: 0 0 40px 0;
+
+	td {
+		border-right: solid 2px $color-red;
+	}
+
+	td:last-child {
+		border-right: none;
+	}
+
+	tr:first-child {
+		border-bottom: solid 2px $color-red;
+	}
+}
+
 // ********************
 // @footer
 //
@@ -468,4 +506,16 @@ ul.sponsor-list {
 	width: 123px;
 	height: 45px;
 	background-image: url(../img/nouveller-logo.png);
+}
+
+.logo-ripe {
+	width: 122px;
+	height: 33px;
+	background-image: url(../img/logo-ripedigital.gif);
+}
+
+.logo-whiteduck {
+	width: 171px;
+	height: 33px;
+	background-image: url(../img/logo-whiteduck.gif);
 }
