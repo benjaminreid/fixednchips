@@ -520,10 +520,13 @@
 	"buffers":
 	[
 		{
+			"contents": "<!doctype html>\n<html>\n	<head>\n		<meta charset=\"utf-8\">\n		<meta content=\"IE=edge,chrome=1\" http-equiv=\"X-UA-Compatible\">\n		<meta content=\"width=device-width,initial-scale=1.0,maximum-scale=1.0\" name=\"viewport\">\n		<title>B&Ouml;IKZM&Ouml;IND presents FIXED 'n' CHIPS - A chip shop-based alleycat race</title>\n		<meta name=\"keywords\" content=\"fixed gear, fixie, race, alleycat, sport, event, bristol, boikzmoind, bristol race, bristol alleycat, fixed and chips, fixie chips, bikes mind, #vegan\">\n		<meta name=\"description\" content=\"A chip shop-based fixed gear alleycat bicycle race in the heart of Bristol\">\n		<link rel=\"stylesheet\" href=\"css/screen.css\">\n		<script src=\"js/libs/modernizr.js\"></script>\n		<script type=\"text/javascript\">\n		  var _gaq = _gaq || [];\n		  _gaq.push(['_setAccount', 'UA-7035732-8']);\n		  _gaq.push(['_trackPageview']);\n		  (function() {\n		    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;\n		    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';\n		    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);\n		  })();\n		</script>\n	</head>\n	<body>\n\n		<div class=\"wrapper\">\n			\n			<header class=\"page-header\">\n				\n				<img src=\"img/fixednchips-logo.gif\" class=\"alignleft\" alt=\"BÖIKZMÖIND\">\n				\n				<nav class=\"page-nav\">\n					<p class=\"upper small\">B&Ouml;IKZM&Ouml;IND <span class=\"smaller\">presents a</span> State Bicycle Co. <span class=\"smaller\">sponsored event</span></p>\n					<p class=\"upper light large\">Saturday 27th October 2012 / Waterfront, Bristol, BS1 / 2.00PM</p>\n					<ul class=\"main-nav\">\n						<li><a href=\"\" title=\"Coming Soon\">The Race</a></li>\n						<li><a href=\"\" title=\"Coming Soon\">The Prizes</a></li>\n						<li><a href=\"\" title=\"Coming Soon\">The Sponsors</a></li>\n						<li><a href=\"\" title=\"Coming Soon\">The Results</a></li>\n						<li><a href=\"\" title=\"Coming Soon\">The Gallery</a></li>\n					</ul>\n				</nav>\n\n				<div class=\"social-links alignright\">\n					<a href=\"https://twitter.com/#!/search/%23FIXEDnCHIPS\" class=\"smaller\">#FIXEDnCHIPS</a>\n					<ul class=\"inline plain\">\n						<li>\n							<a href=\"https://twitter.com/BOIKZMOIND\"><img src=\"img/twitter-logo-small.png\" alt=\"Twitter logo\"></a>\n						</li>\n						<li>\n							<a href=\"https://www.facebook.com/BOIKZMOIND\"><img src=\"img/facebook-logo-small.png\" alt=\"Facebook logo\"></a>\n						</li>\n						<li>\n							<a href=\"http://statigr.am/tag/fixednchips/\"><img src=\"img/instagram-logo-small.gif\" alt=\"Instagram logo\"></a>\n						</li>\n					</ul>\n				</div>\n\n			</header>\n\n			<div class=\"content\">\n				\n				<h1><span>The Prizes</span></h1>\n				<p>FIXED 'n' CHIPS has been very fortunate in the way of sponsors, and we have a tonne of stuff to give away as prizes on the day. Hopefully, with the amount of swag we have, there should be something for nearly everyone, so everyone’s a winner. The person who comes in overall first though, is in for a real treat, in the form of a complete bike, the 'Vice', given to us by the headline sponsor State Bicycle Co. Now, if that’s not worth racing for, I don't know what is!</p>\n\n				<img src=\"img/grand-prize.jpg\" alt=\"\">				\n\n				<div class=\"grid\"></div>\n\n			</div>\n\n			<div class=\"content\">\n\n				<h1><span>The Race</span></h1>\n\n				<h2><span class=\"icon icon-calendar first\"></span>Saturday 27th October <span class=\"icon icon-clock\"></span>2.00PM Start <span class=\"icon icon-flag\"></span>The Waterfront, Bristol, BS1 <small>Next to Bordeaux Quay/Lloyds/Millennium Sq</small></h2>\n\n				<iframe class=\"map\" width=\"1152\" height=\"350\" frameborder=\"0\" scrolling=\"no\" marginheight=\"0\" marginwidth=\"0\" src=\"https://maps.google.co.uk/maps/ms?msid=210724813712831834929.0004c935fe60d341cb4ba&amp;msa=0&amp;ie=UTF8&amp;t=m&amp;ll=51.474754,-2.59037&amp;spn=0.074845,0.395508&amp;z=12&amp;output=embed\"></iframe>\n\n				<div class=\"locations\">\n					<div class=\"col col-20\">\n						<h3>Fishminster</h3>\n						<p>\n							267 North St<br>\n							Bedminster<br>\n							Bristol<br>\n							BS3 1JN\n						</p>\n					</div>\n					<div class=\"col col-20\">\n						<h3>Clifton Fish Bar</h3>\n						<p>\n							4 Princess Victoria St<br>\n							Clifton Village<br>\n							Bristol<br>\n							BS8 4BP\n						</p>	\n					</div>\n					<div class=\"col col-20\">\n						<h3>Fish Lovers</h3>\n						<p>\n							Whiteladies Rd<br>\n							Clifton Down<br>\n							Bristol<br>\n							BS8 2PL\n						</p>\n					</div>\n					<div class=\"col col-20\">\n						<h3>Henleaze Fish Bar</h3>\n						<p>\n							Henleaze Rd<br>\n							Henleaze<br>\n							Bristol<br>\n							BS9 4NB\n						</p>	\n					</div>\n					<div class=\"col col-20\">\n						<h3>Bishopston Fish Bar</h3>\n						<p>\n							Gloucester Rd<br>\n							Horfield<br>\n							Bristol<br>\n							BS7 8PB\n						</p>		\n					</div>\n				</div>\n\n				<div class=\"clearfix\"></div>\n\n				<hr>\n\n				<h2>How the race will work</h2>\n				<p>The race is open to anyone with a fixed gear bike! We want the race to bring fellow fixed gear fiends together and have a bit of fun, with the chance to win some awesome prizes. Remember, you’ll be riding on roads, so please ride safely and wear a helmet, we don’t condone any reckless riding, just have fun and take it easy! As well as the race itself we’ll be having a trackstand competition too, so use those red lights to your advantage and get practising!</p>	\n\n				<div class=\"instructions\">\n					<div class=\"col col-33\">\n						<img src=\"img/icon-path.gif\" alt=\"\" class=\"centre\">\n						<h3 class=\"centre\">Choose your path</h3>\n						<p>\n							5 check points, which are all chip shops around Bristol. All 5 must be visited but you can ride to them in any order, the route you take is up to you! Being Bristol, there’s a few hills in the way.\n						</p>\n					</div>\n					<div class=\"col col-33\">\n						<img src=\"img/icon-points.gif\" alt=\"\" class=\"centre\">\n						<h3 class=\"centre\">Points mean prizes</h3>\n						<p>\n							It’s points based! The first rider to a checkpoint gets 10 points, the second gets 9 points etc but the route you take will mean you can’t possibly be first at all 5 chip shops so you tactics and route planning come into play!\n						</p>\n					</div>\n					<div class=\"col col-33\">\n						<img src=\"img/icon-sausage.gif\" alt=\"\" class=\"centre\">\n						<h3 class=\"centre\">Om Nom Nom</h3>\n						<p>\n							Not lightening fast? Good for you, because you can elect to order & eat a battered sausage at a checkpoint and get 5 bonus points. So, do you race fast to get first place or go mellow but eat sausages, it's up to you!\n						</p>\n					</div>\n					<div class=\"clearfix\"></div>\n				</div>\n\n				<h2>Do I need to register or do anything?</h2>\n				<p>Nope! Simply turn up on the day and we'll get you sorted! Just bring yourself, your bike, your helmet and some pocket money for battered sausages and you'll be right as rain.</p>	\n\n			</div>\n\n			<footer class=\"page-footer\">\n				<div class=\"wrapper\">\n					<p class=\"upper centre small\">Site designed by <a href=\"http://news.jam-factory.com/\" class=\"icon logo-jamfactory\">JamFactory</a> Site built by <a href=\"http://www.nouveller.com/\" class=\"icon logo-nouveller\">Nouveller</a></p>\n					<ul class=\"inline centre plain sponsor-list\">\n						<li>\n							<a href=\"http://boikzmoind.com/\"><img src=\"img/boikzmoind-logo.gif\" alt=\"B&Ouml;IKZM&Ouml;IND logo\"></a>\n						</li>\n						<li>\n							<a href=\"http://boikzmoind.com/\"><img src=\"img/boikzmoind-shield-logo.gif\" alt=\"B&Ouml;IKZM&Ouml;IND shield\"></a>\n						</li>\n						<li>\n							<a href=\"http://www.statebicycle.co.uk/\"><img src=\"img/state-bicycle-co-logo.png\" alt=\"State Bicycle Co logo\"></a>\n						</li>\n					</ul>\n				</div>\n			</footer>\n\n		</div>\n\n		<script src=\"js/libs/libs.min.js\"></script>\n		<script src=\"js/script.js\"></script>\n	</body>\n</html>",
 			"file": "index.html",
+			"file_size": 7769,
+			"file_write_time": 1348928789000000,
 			"settings":
 			{
-				"buffer_size": 5171,
+				"buffer_size": 7781,
 				"line_ending": "Unix"
 			}
 		},
@@ -531,7 +534,7 @@
 			"file": "css/sass/screen.scss",
 			"settings":
 			{
-				"buffer_size": 4356,
+				"buffer_size": 5205,
 				"line_ending": "Unix"
 			}
 		}
@@ -704,11 +707,11 @@
 	},
 	"file_history":
 	[
+		"/Users/Benjamin/Sites/Fixed n Chips/index.html",
+		"/Users/Benjamin/Sites/Fixed n Chips/css/sass/screen.scss",
 		"/Users/Benjamin/Sites/Fixed n Chips/css/sass/fonts.scss",
 		"/Users/Benjamin/Sites/Fixed n Chips/js/coffee/script.coffee",
 		"/Users/Benjamin/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
-		"/Users/Benjamin/Sites/Fixed n Chips/index.html",
-		"/Users/Benjamin/Sites/Fixed n Chips/css/sass/screen.scss",
 		"/Users/Benjamin/Sites/Fixed n Chips/css/sass/bootstrap.scss",
 		"/Users/Benjamin/Sites/Fixed n Chips/js/libs/modernizr.js",
 		"/Users/Benjamin/Downloads/bootstrap/css/bootstrap.css",
@@ -866,6 +869,13 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"col",
+			"20px",
+			"<p class=\"centre\">",
+			"20px",
+			"<h3>",
+			"alt=\"\"",
+			"<p>",
 			"col-20",
 			"calendar",
 			"h1",
@@ -986,14 +996,7 @@
 			"align",
 			"cb2027",
 			"border-",
-			"section",
-			"dark",
-			"slider-ar",
-			"header",
-			"sub",
-			"align-centre",
-			"butto",
-			".content"
+			"section"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -1067,15 +1070,15 @@
 					"file": "index.html",
 					"settings":
 					{
-						"buffer_size": 5171,
+						"buffer_size": 7781,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								3288,
-								3288
+								3234,
+								3234
 							]
 						],
 						"settings":
@@ -1084,7 +1087,7 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 1184.0,
+						"translation.y": 1271.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -1100,15 +1103,15 @@
 					"file": "css/sass/screen.scss",
 					"settings":
 					{
-						"buffer_size": 4356,
+						"buffer_size": 5205,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2361,
-								2361
+								4029,
+								4029
 							]
 						],
 						"settings":
@@ -1117,7 +1120,7 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 4062.0,
+						"translation.y": 7298.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -1173,6 +1176,10 @@
 		"height": 0.0,
 		"selected_items":
 		[
+			[
+				".sc",
+				"css/sass/screen.scss"
+			],
 			[
 				"fon",
 				"css/sass/fonts.scss"
@@ -1680,10 +1687,6 @@
 			[
 				"app",
 				"js/app.js"
-			],
-			[
-				"noti",
-				"getNotices.php"
 			]
 		],
 		"width": 0.0
@@ -1693,6 +1696,10 @@
 		"height": 500.0,
 		"selected_items":
 		[
+			[
+				"com",
+				"/Users/Benjamin/Sites/Compassion/Compassion.sublime-project"
+			],
 			[
 				"",
 				"/Users/Benjamin/Sites/Railway Children/Railway Children.sublime-project"
@@ -1708,10 +1715,6 @@
 			[
 				"rai",
 				"/Users/Benjamin/Sites/Railway Children/Railway Children.sublime-project"
-			],
-			[
-				"com",
-				"/Users/Benjamin/Sites/Compassion/Compassion.sublime-project"
 			],
 			[
 				"b",

@@ -81,6 +81,10 @@ hr {
 	background: $color-red;
 }
 
+img {
+	vertical-align: bottom;
+}
+
 // ******************************
 // @styles
 //
@@ -188,6 +192,13 @@ img.centre {
 	margin: 0 auto;
 }
 
+.large {
+	font-size: 16px;
+	font-family: "din_lightregular", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+	text-transform: uppercase;
+	line-height: 28px;
+}
+
 // ******************************
 // @layout
 //
@@ -198,8 +209,30 @@ img.centre {
 	position: relative;
 }
 
+$gutter: 20px;
+$inner-gutter: 10px;
+
+.grid {
+	margin-left: -$gutter;
+
+	.col {
+
+		.grid {
+			margin-left: -$inner-gutter;
+
+			.col {
+				margin-left: $inner-gutter;
+			}
+		}
+	}
+}
+.grid:before, .grid:after { content: ""; display: table; }
+.grid:after { clear: both; }
+.grid { *zoom: 1; }
+
 .col {
 	float: left;
+	margin-left: $gutter;
 }
 
 .col-20 {
@@ -208,6 +241,19 @@ img.centre {
 
 .col-33 {
 	width: 33%;
+}
+
+.col-50 {
+	width: 566px;
+
+	.col-50 {
+		width: 278px;
+	}
+}
+
+.break {
+	height: 10px;
+	overflow: hidden;
 }
 
 // ********************
@@ -325,6 +371,10 @@ ul.social-list-large {
 		margin-top: -16px;
 		padding: 0 0 0 38px;
 	}
+
+	.col {
+		margin-left: 0;
+	}
 }
 
 .instructions {
@@ -336,6 +386,18 @@ ul.social-list-large {
 		line-height: 20px;
 		padding-left: 65px;
 		padding-right: 65px;
+	}
+
+	.col {
+		margin-left: 0;
+	}
+}
+
+.prize-images {
+
+	h2, .large {
+		padding-top: 20px;
+		padding-bottom: 20px;
 	}
 }
 
