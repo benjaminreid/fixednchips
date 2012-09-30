@@ -787,7 +787,7 @@ img.centre {
   display: block;
   margin: 0 auto; }
 
-.large {
+.medium {
   font-size: 16px;
   font-family: "din_lightregular", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
   text-transform: uppercase;
@@ -925,7 +925,7 @@ ul.social-list-large {
   .instructions .col {
     margin-left: 0; }
 
-.prize-images h2, .prize-images .large {
+.prize-images h2, .prize-images .medium {
   padding-top: 20px;
   padding-bottom: 20px; }
 
