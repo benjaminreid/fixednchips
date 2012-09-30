@@ -339,6 +339,11 @@ $inner-gutter: 10px;
 				text-decoration: none;
 			}
 		}
+
+		.current {
+			border-bottom: solid 3px $color-red;
+			text-decoration: none;
+		}
 	}
 }
 

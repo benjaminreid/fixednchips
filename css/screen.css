@@ -892,6 +892,9 @@ img.centre {
       .main-nav li a:hover {
         border-bottom: solid 3px #d20011;
         text-decoration: none; }
+    .main-nav li .current {
+      border-bottom: solid 3px #d20011;
+      text-decoration: none; }
 
 .social-links {
   margin: 21px 0 0 0; }
