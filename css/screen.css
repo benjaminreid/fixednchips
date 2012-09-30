@@ -687,6 +687,10 @@ hr {
   height: 3px;
   background: #d20011; }
 
+hr.thin {
+  height: 2px;
+  margin: 0; }
+
 img {
   vertical-align: bottom; }
 
@@ -793,6 +797,9 @@ img.centre {
   text-transform: uppercase;
   line-height: 28px; }
 
+.page-results .medium {
+  font-size: 20px; }
+
 .wrapper {
   width: 1200px;
   margin: 0 auto;
@@ -829,6 +836,15 @@ img.centre {
   width: 566px; }
   .col-50 .col-50 {
     width: 278px; }
+
+.col-50.border-right {
+  width: 564px; }
+
+.border-right {
+  border-right: 2px solid #d20011; }
+
+.border-bottom {
+  border-bottom: 2px solid #d20011; }
 
 .break {
   height: 10px;
@@ -928,6 +944,12 @@ ul.social-list-large {
 .prize-images h2, .prize-images .medium {
   padding-top: 20px;
   padding-bottom: 20px; }
+
+.podium-container {
+  height: 385px; }
+
+.other-results p {
+  padding-top: 20px; }
 
 .page-footer {
   width: 100%;

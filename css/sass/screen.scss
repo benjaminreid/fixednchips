@@ -81,6 +81,11 @@ hr {
 	background: $color-red;
 }
 
+hr.thin {
+	height: 2px;
+	margin: 0;
+}
+
 img {
 	vertical-align: bottom;
 }
@@ -199,6 +204,10 @@ img.centre {
 	line-height: 28px;
 }
 
+.page-results .medium {
+	font-size: 20px;
+}
+
 // ******************************
 // @layout
 //
@@ -249,6 +258,18 @@ $inner-gutter: 10px;
 	.col-50 {
 		width: 278px;
 	}
+}
+
+.col-50.border-right {
+	width: 564px;
+}
+
+.border-right {
+	border-right: 2px solid $color-red;
+}
+
+.border-bottom {
+	border-bottom: 2px solid $color-red;
 }
 
 .break {
@@ -398,6 +419,17 @@ ul.social-list-large {
 	h2, .medium {
 		padding-top: 20px;
 		padding-bottom: 20px;
+	}
+}
+
+.podium-container {
+	height: 385px;
+}
+
+.other-results {
+
+	p {
+		padding-top: 20px;
 	}
 }
 
