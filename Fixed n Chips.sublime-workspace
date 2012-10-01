@@ -519,30 +519,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "index.html",
-			"settings":
-			{
-				"buffer_size": 13461,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "js/coffee/script.coffee",
-			"settings":
-			{
-				"buffer_size": 922,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "css/sass/screen.scss",
-			"settings":
-			{
-				"buffer_size": 6948,
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -712,10 +688,10 @@
 	},
 	"file_history":
 	[
-		"/Users/Benjamin/Sites/Fixed n Chips/index.html",
 		"/Users/Benjamin/Sites/Fixed n Chips/css/sass/screen.scss",
-		"/Users/Benjamin/Sites/Fixed n Chips/css/sass/fonts.scss",
+		"/Users/Benjamin/Sites/Fixed n Chips/index.html",
 		"/Users/Benjamin/Sites/Fixed n Chips/js/coffee/script.coffee",
+		"/Users/Benjamin/Sites/Fixed n Chips/css/sass/fonts.scss",
 		"/Users/Benjamin/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
 		"/Users/Benjamin/Sites/Fixed n Chips/css/sass/bootstrap.scss",
 		"/Users/Benjamin/Sites/Fixed n Chips/js/libs/modernizr.js",
@@ -1067,96 +1043,13 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "index.html",
-					"settings":
-					{
-						"buffer_size": 13461,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								2035,
-								2035
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 788.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				}
 			]
 		},
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 1,
-					"file": "js/coffee/script.coffee",
-					"settings":
-					{
-						"buffer_size": 922,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								250,
-								250
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/CoffeeScript/CoffeeScript.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "css/sass/screen.scss",
-					"settings":
-					{
-						"buffer_size": 6948,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								295,
-								292
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/SCSS/SCSS.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				}
 			]
 		}
 	],
@@ -1729,6 +1622,10 @@
 		"selected_items":
 		[
 			[
+				"c",
+				"/Users/Benjamin/Sites/Compassion/Compassion.sublime-project"
+			],
+			[
 				"rai",
 				"/Users/Benjamin/Sites/Railway Children/Railway Children.sublime-project"
 			],
@@ -1743,10 +1640,6 @@
 			[
 				"ra",
 				"/Users/Benjamin/Sites/Railway Children/Railway Children.sublime-project"
-			],
-			[
-				"c",
-				"/Users/Benjamin/Sites/Compassion/Compassion.sublime-project"
 			],
 			[
 				"b",
