@@ -1,6 +1,6 @@
 $(document).ready ->
 
-	nav = $ '.main-nav li a'
+	nav = $ '.main-nav li a[href^="#"]'
 	offsetHeight = 147
 	currentClass = 'current'
 	body = $ 'body'
@@ -26,12 +26,12 @@ $(document).ready ->
 
 	nav.on 'click', (e) ->
 		e.preventDefault()
-		page = $(this).data 'page'
+		page = $(this).attr 'href'
 		changePage page
 
 	changePage = (page) ->
 		# get the page to show
-		newPage = $ "##{page}"
+		newPage = $ "#{page}"
 		# work out it's position
 		offset 	= newPage.offset().top - offsetHeight
 
@@ -45,4 +45,4 @@ $(document).ready ->
 
 	updateNav = (page) ->
 		nav.removeClass currentClass
-		$('a[data-page="'+page+'"]').addClass currentClass 
+		$('a[data-page="'+page+'"]').addClass currentClass
