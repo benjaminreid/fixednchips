@@ -1,6 +1,6 @@
 $(document).ready ->
 
-	nav = $ '.main-nav li a[href^="#"]'
+	nav = $ 'a[href^="#"]'
 	offsetHeight = 147
 	currentClass = 'current'
 	body = $ 'body'
