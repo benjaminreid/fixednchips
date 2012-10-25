@@ -45,4 +45,4 @@ $(document).ready ->
 
 	updateNav = (page) ->
 		nav.removeClass currentClass
-		$('a[data-page="'+page+'"]').addClass currentClass
+		$('a[href="'+page+'"]').addClass currentClass

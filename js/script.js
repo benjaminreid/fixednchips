@@ -35,7 +35,7 @@
     };
     return updateNav = function(page) {
       nav.removeClass(currentClass);
-      return $('a[data-page="' + page + '"]').addClass(currentClass);
+      return $('a[href="' + page + '"]').addClass(currentClass);
     };
   });
 
